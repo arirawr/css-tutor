@@ -1,21 +1,21 @@
 /* FontFit is a pure CSS solution for sizing fonts on your responsive website. */
 
 .ff-xs{
-	font-size: 10vw;
+	font-size: 2vw;
 }
 
 .ff-s {
-	font-size: 15vw;
+	font-size: 4vw;
 }
 
 .ff-m {
-	font-size: 20vw;
+	font-size: 6vw;
 }
 
 .ff-l {
-	font-size: 25vw;
+	font-size: 8vw;
 }
 
 .ff-xl {
-	font-size: 30vw;
+	font-size: 15vw;
 }
