@@ -19,3 +19,17 @@
 .ff-xl {
 	font-size: 15vw;
 }
+
+/* Max for large screens */
+@media (min-width: 1000px) {
+	.ff-xl {
+		font-size: 50px;
+	}
+}
+
+/* Min for small screens */
+@media (max-width: 400px) {
+	.ff-s {
+		font-size: 12px; 
+	}
+}
